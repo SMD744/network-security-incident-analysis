@@ -3,6 +3,15 @@ Wireshark analysis of NetSupport RAT malware infection
 
 # 🔍 Network Security Incident Analysis: NetSupport RAT Malware
 
+<div align="center">
+  
+![Wireshark](https://img.shields.io/badge/tool-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/framework-MITRE%20ATT%26CK-E60023?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
+
+</div>
+
 
 ## 📋 Overview
 
@@ -102,8 +111,8 @@ This repository contains a comprehensive incident report documenting the forensi
 **OYEWOLE SAMAD OLUWASANJO**  
 *Network Security Analyst*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:oyewolesamadoluwasanjo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/oyewole-samad)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](oyewolesamadoluwasanjo@gmail.com)
 
 ---
 
